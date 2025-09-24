@@ -17,7 +17,15 @@ This project analyzes UFC fight data from 2010 to 2024 to explore statistical pa
 - Link: https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset
 - Includes fights from 03/21/2010 to 12/07/2024
 
-## How to install this project
+### Prerequisites
+
+- Python 3.8 or higher  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn
+
+## Get started
 1.  Clone this repo
     ```sh
     git clone https://github.com/jmanlang/ufc-data-analysis.git
@@ -31,3 +39,4 @@ This project analyzes UFC fight data from 2010 to 2024 to explore statistical pa
     ```sh
     pip install -r requirements.txt
     ```
+4. Open analysis.ipynb
